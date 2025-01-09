@@ -43,7 +43,7 @@
 ---
 
 ## 📫 **연락하기**
-- GitHub: [GitHub 프로필 링크](#)  
+- GitHub: [GitHub 프로필 링크](#https://github.com/goguggi/AIDEN-S_PROJECT.github.io)  
 - 이메일: [이메일 주소](#)  
 - 블로그: [개발 블로그 링크(선택)](#)  
 
