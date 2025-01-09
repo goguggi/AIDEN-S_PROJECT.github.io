@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 **학습습 스택**
+## 💻 **학습 스택**
 저는 다음과 같은 기술과 도구를 학습하고 있습니다. 
 
 - **프로그래밍 언어**  
@@ -21,7 +21,7 @@
 
 - **현재 배우고 있는 것**  
 - 컴퓨터
-- 객체지향 프로그래밍밍
+- 객체지향 프로그래밍
 
 ---
 
@@ -41,7 +41,7 @@
 ---
 
 ## 📫 **연락하기**
-- GitHub: [GitHub 프로필 링크](#https://github.com/goguggi/AIDEN-S_PROJECT.github.io)  
+- GitHub: [GitHub 프로필 링크](https://github.com/goguggi/AIDEN-S_PROJECT.github.io)  
 - 이메일: [이메일 주소](#)  
 - 블로그: [개발 블로그 링크(선택)](#)  
 
